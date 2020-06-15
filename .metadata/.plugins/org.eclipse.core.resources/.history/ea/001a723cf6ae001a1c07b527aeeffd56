@@ -1,0 +1,28 @@
+package java101.programFlow;
+
+public class IterationInJava {
+
+	public static void main(String[] args) {
+		
+		// Iterations are used to achieve repetition of tasks without repeating the codes
+		
+		// To achieve this we use either for loop (counter controlled) and while loop (sentinel loop)
+		
+		// we also have do-while loop and enhanced for loop
+		
+		//NB: when a loop never stops, it is known as an infinite loop
+		
+		//for loop
+		// for loop is used to repeat a task while a condition remains true
+		// 
+		
+		
+		
+		// while is used to repeat a task while the specified condition remains true
+		
+		// the difference between a while loop and for loop is that the former is sentinel controlled 
+		// while the latter is counter controlled;
+		
+	}
+
+}

@@ -1,0 +1,17 @@
+package java101.programFlow;
+
+public class IterationInJava {
+
+	public static void main(String[] args) {
+		
+		// Iterations are used to achieve repetition of tasks without repeating the codes
+		
+		// To achieve this we use either for loop (counter controlled) and while loop (sentinel loop)
+		
+		
+		
+		
+		
+	}
+
+}
