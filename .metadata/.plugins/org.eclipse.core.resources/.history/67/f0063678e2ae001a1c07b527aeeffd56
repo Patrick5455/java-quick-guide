@@ -1,0 +1,21 @@
+package java101;
+
+public class OperatorsInJava {
+	
+	/* Four types of operators in java
+	 * 
+	 * 1. Arithmetic Operators +,-,/,*,%
+	 * 2. Bitwise Operators
+	 * 3. Relational Operators
+	 * 4. Logical Operators
+	 * */
+
+	public static void main(String [] args) {
+		
+		// Arithmetic Operators in Java
+		
+		int m =6;
+		
+		
+	}
+}
