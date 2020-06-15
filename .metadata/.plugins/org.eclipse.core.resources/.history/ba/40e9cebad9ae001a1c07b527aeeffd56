@@ -1,0 +1,17 @@
+package java101;
+
+public class StartCode {
+	
+	public static void main(String... args) {
+		
+		System.out.println("Hello World");
+		
+		int a = 5;
+		
+		// only $ and _  are special characters allowed to start variable
+		// names in java course
+		int $a45c = 6;
+		System.out.println(a);
+	}
+
+}

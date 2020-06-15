@@ -1,0 +1,34 @@
+package java101;
+
+public class StartCode {
+	
+	public static void main(String... args) {
+		
+		// Writing Your First Java Programs
+		System.out.println("Hello World");
+		
+		int a = 5;
+		
+		// only $ and  _  are special characters allowed to start and end variable names in java course
+		
+		// numbers are not allowed to start variable names in java
+		
+		
+		int $abc$ = 6; // takes 4 bytes to 32 bytes of memory
+		
+		int _abc_ = 45;
+		
+		// int is a primitive data tyepe
+		
+		// range of values for int data type : 2,147,483,648 - 2,147,483,647
+		System.out.println(a);
+		
+	
+		
+		
+		
+		
+		
+	}
+
+}

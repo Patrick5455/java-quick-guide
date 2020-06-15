@@ -1,0 +1,21 @@
+package java101;
+
+public class StartCode {
+	
+	public static void main(String... args) {
+		
+		// Writing Your First Java Programs
+		System.out.println("Hello World");
+		
+		int a = 5;
+		
+		// only $ and  _  are special characters allowed to start and end variable names in java course
+		
+		int $abc$ = 6;
+		int _abc_ = 45;
+		System.out.println(a);
+		
+		
+	}
+
+}

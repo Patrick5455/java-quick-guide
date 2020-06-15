@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+/home/patrick/Documents/Semicolon/Java/Java Program/EclipsePrograms/seven-hours-java-course/.metadata/.plugins/org.eclipse.jdt.core
+1663012752.index
+646308851.index
