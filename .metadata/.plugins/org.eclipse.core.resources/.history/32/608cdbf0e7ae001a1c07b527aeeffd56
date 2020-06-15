@@ -1,0 +1,19 @@
+package java101;
+
+public class SelectionInJava {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		// to determine the flow of programs in java, we can use selection statements
+		
+		// we have three types of selection statements we can use for this in java
+		
+		/*1. if - double selection statement
+		 *2. switch - multiple selection statement
+		 *3. ternary selection - triple selection statement
+		 * */
+
+	}
+
+}

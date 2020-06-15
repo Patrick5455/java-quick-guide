@@ -56,7 +56,7 @@ public class OperatorsInJava {
 		
 		//1. pre increment
 				
-		// uncomment the below to make it work and comment out again to run the post increment
+		// uncomment the below to make it work and comment out again  to run the post increment
 				
 				//	 x = ++y;
 				

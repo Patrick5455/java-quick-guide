@@ -1,0 +1,12 @@
+package java101;
+
+public class SelectionInJava {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		// to determine the flow of programs in java, we can use selection statements
+
+	}
+
+}
